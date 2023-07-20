@@ -33,6 +33,7 @@
 }
 .password_feild{
     position: relative;
+    margin-left: -0.5rem;
 }
 .show_btn{
     color: gray;
